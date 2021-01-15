@@ -1,6 +1,3 @@
-# Coursera-AIForMedicineSpecialization-By-Deeplearning.ai-HandwrittenNotes
-My handwritten notes for https://www.coursera.org/specializations/ai-for-medicine
-
 # Coursera: AI for Medicine Specialization by Deeplearning.ai
 ► My handwritten notes for https://www.coursera.org/specializations/ai-for-medicine <br>
 ► My credentials: https://www.coursera.org/account/accomplishments/specialization/certificate/NZ4VJSHXULHU <br>
